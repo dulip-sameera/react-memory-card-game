@@ -1,6 +1,6 @@
 # Memory Card Game
 
-[Live Demo:point_left:](https://dulip-sameera.github.io/react-memory-card-game/){:target="\_blank"}
+[Live Demo:point_left:](https://dulip-sameera.github.io/react-memory-card-game/)
 
 ## To Do Changes or Try Out the Code
 
@@ -12,12 +12,12 @@
 
 ## What I did learn
 
-- Practice using [useState](https://reactjs.org/docs/hooks-state.html){:target="\_blank"} hook
-- Practice using [useEffect](https://reactjs.org/docs/hooks-effect.html){:target="\_blank"} hook
-- Learned to stop a useEffect hook from executing in the first render. (Found it on this [stackoverflow](https://stackoverflow.com/questions/53253940/make-react-useeffect-hook-not-run-on-initial-render){:target="\_blank"} article)
+- Practice using [useState](https://reactjs.org/docs/hooks-state.html) hook
+- Practice using [useEffect](https://reactjs.org/docs/hooks-effect.html) hook
+- Learned to stop a useEffect hook from executing in the first render. (Found it on this [stackoverflow](https://stackoverflow.com/questions/53253940/make-react-useeffect-hook-not-run-on-initial-render) article)
 - Practice conditional rendering
 
 ## Tools and Technologies used to build the project
 
-- [React](https://reactjs.org/){:target="\_blank"}
-- [Tailwind CSS](https://tailwindcss.com/){:target="\_blank"}
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
