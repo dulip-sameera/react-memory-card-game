@@ -14,7 +14,7 @@
 
 - Practice using [useState](https://reactjs.org/docs/hooks-state.html) hook
 - Practice using [useEffect](https://reactjs.org/docs/hooks-effect.html) hook
-- Learned to stop a useEffect hook from execution in the first render. (Found it on this [stackoverflow](https://stackoverflow.com/questions/53253940/make-react-useeffect-hook-not-run-on-initial-render) article)
+- Learned to stop a useEffect hook from executing in the first render. (Found it on this [stackoverflow](https://stackoverflow.com/questions/53253940/make-react-useeffect-hook-not-run-on-initial-render) article)
 - Practice conditional rendering
 
 ## Tools and Technologies used to build the project
